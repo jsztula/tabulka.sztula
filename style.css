@@ -1,0 +1,13 @@
+.tab{ text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 5px 25px 50px 
+    color  rgb(0, 89, 233)
+}
+
+table{
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+}
